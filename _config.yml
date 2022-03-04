@@ -1,7 +1,7 @@
 # Site
 title:              PURPLEAXIS'S BLOG
-bio:                'Minimal, one column jekyll theme.'
-description:        "人生茫茫、一世寥寥、无心无念、唯有囡荆"
+bio:                '人生茫茫、一世寥寥、无心无念、唯有囡荆'
+description:        "purpleaxis 的 blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
