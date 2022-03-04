@@ -26,7 +26,7 @@ comments: true
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
-* Change repo name to `freeblow.github.io`    
+* Change repo name to `YourUserName.github.io`    
      
 That's all.
 
@@ -47,7 +47,7 @@ That's all.
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://freeblow.github.io/Moon) hosted on GitHub.      
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
