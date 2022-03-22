@@ -4,6 +4,7 @@ title: 关于BLOG
 tags: [关于, BLOG]
 date: 2022-03-22
 comments: false
+category: "about"
 ---
     
 <center><a href="http://freeblow.github.io"><b>PurpleAxis‘s BLOG</b></a></center>
