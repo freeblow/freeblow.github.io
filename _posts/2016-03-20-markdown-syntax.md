@@ -10,7 +10,7 @@ tag:
 - test
 - jekyll
 comments: true
-category: "posts"
+category: "markdown-syntax"
 
 ---
 
