@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: iOS开发
+title: 音视频
 category: "audio-and-video"
-excerpt: "iOS学习内容集合"
+excerpt: "音视频学习及笔记记录"
 comments: true
 ---
