@@ -10,6 +10,8 @@ tag:
 - test
 - jekyll
 comments: true
+category: "posts"
+
 ---
 
 ## HTML Elements
