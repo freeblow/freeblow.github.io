@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "判断是否越狱成功"
-date: 2022-03-22
+date: 2022-03-23
 excerpt: "判断是否越狱成功的方法"
-tags: [iOS, 越狱, 完美越狱, 不完美越狱, ]
+tags: [iOS, 越狱, 越狱成功, 判断越狱, cydia]
 comments: true
 category: "re-ios"
 ---

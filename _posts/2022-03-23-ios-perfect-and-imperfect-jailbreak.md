@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "iOS越狱(iOS Jailbreak)"
-date: 2022-03-22
-excerpt: "iOS越狱的特性和优缺点"
+title: "完美越狱和不完美越狱"
+date: 2022-03-23
+excerpt: "完美越狱和不完美越狱的简介"
 tags: [iOS, 越狱, 完美越狱, 不完美越狱, ]
 comments: true
 category: "re-ios"
