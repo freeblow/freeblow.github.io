@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "SceneDelegate 在Info.plist中的配置问题"
+title: "SceneDelegate在Info.plist中的配置问题"
 date: 2022-03-28
-excerpt: "Info.plist configuration "Default Configuration" for UIWindowSceneSessionRoleApplication contained UISceneDelegateClassName key, but could not load class with name "xxxxx.SceneDelegate""
+excerpt: "Info.plist configuration "Default Configuration" for UIWindowSceneSessionRoleApplication contained UISceneDelegateClassName key, but could not load class with name \"xxxxx.SceneDelegate\" "
 tags: [iOS, error, Info.plist, UIWindowSceneSessionRoleApplication, UISceneDelegateClassName, SceneDelegate]
 comments: true
 category: "ios"
