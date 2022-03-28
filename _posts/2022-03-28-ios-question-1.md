@@ -50,7 +50,7 @@ category: "ios"
 
 
 
-* 参考链接: [https://github.com/bazelbuild/rules_apple/issues/1016](参考链接: https://github.com/bazelbuild/rules_apple/issues/1016
+* 参考链接: [https://github.com/bazelbuild/rules_apple/issues/1016](https://github.com/bazelbuild/rules_apple/issues/1016
 )
 
 
