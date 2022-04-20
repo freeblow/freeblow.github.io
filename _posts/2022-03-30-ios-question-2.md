@@ -2,7 +2,7 @@
 layout: post
 title: "用Application Loader或者Transporter上传AppStore IPA包到AppStore出现问题"
 date: 2022-03-30
-excerpt: "用Application Loader或者Transporter上传AppStore IPA包到AppStore出现问题""
+excerpt: "用Application Loader或者Transporter上传AppStore IPA包到AppStore出现问题"
 tags: [iOS, error, Application\ Loader, Transporter, UISceneDelegateClassName, IPA]
 comments: true
 category: "ios"

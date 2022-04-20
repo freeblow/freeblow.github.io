@@ -2,7 +2,7 @@
 layout: post
 title: "Shell脚本：判断文件、文件夹是否存在"
 date: 2022-03-30
-excerpt: "Shell判断文件、文件夹是否存在""
+excerpt: "Shell判断文件、文件夹是否存在"
 tags: [iOS, Xcode, Products]
 comments: true
 category: "mac"
