@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mac软件工具推荐"
-date: 2022-03-28
+date: 2022-04-20
 excerpt: "Alfred 软件"
 tags: [mac,macOS,Alfred,效率]
 comments: true
